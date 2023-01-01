@@ -1,0 +1,6 @@
+surf
+*.o
+.ccls-cache/
+compile_commands.json
+.cache
+webext-surf.so
